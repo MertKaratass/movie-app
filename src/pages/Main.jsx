@@ -4,6 +4,7 @@ import MovieCard from "../components/MovieCard";
 import { toastWarnNotify } from "../helpers/ToastNotify";
 import { useAuthContext } from "../context/AuthContext";
 
+
 const Main = () => {
   const { movies, loading, getMovies } = useMovieContext();
   const { currentUser } = useAuthContext();
