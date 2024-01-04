@@ -4,12 +4,10 @@ import MovieCard from "../components/MovieCard";
 import { toastWarnNotify } from "../helpers/ToastNotify";
 import { useAuthContext } from "../context/AuthContext";
 
-
 const Main = () => {
   const { movies, loading, getMovies } = useMovieContext();
   const { currentUser } = useAuthContext();
 
-  //* DOM elementlerine ulaşmamızı sağlayan hook
   const inputRef = useRef();
 
   const API_KEY = process.env.REACT_APP_TMDB_KEY;

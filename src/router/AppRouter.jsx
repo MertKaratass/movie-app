@@ -6,13 +6,11 @@ import Register from "../pages/Register";
 import MovieDetail from "../pages/MovieDetail";
 import Navbar from "../components/Navbar";
 import PrivateRouter from "./PrivateRouter";
-import Catagories from "../components/Catagories";
 
 const AppRouter = () => {
   return (
     <>
       <Navbar />
-      <Catagories />
       <Routes>
         <Route path="/" element={<Main />} />
         <Route path="/login" element={<Login />} />
