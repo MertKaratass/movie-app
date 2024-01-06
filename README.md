@@ -20,4 +20,5 @@
   
 - Projects ---> https://movie-app-mertkaratass.vercel.app/
 
-- ![Uploading Animation2.gif…]()
+- ![Animation2](https://github.com/MertKaratass/movie-app/assets/140601271/e80b88a6-5402-46ae-a44d-5503aae6188b)
+
