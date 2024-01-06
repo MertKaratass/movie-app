@@ -19,3 +19,4 @@
 - E-posta: [karatasmert255@gmail.com]
   
 - Projects ---> https://movie-app-mertkaratass.vercel.app/
+![Uploading Animation333.gif…]()
