@@ -20,5 +20,6 @@
   
 - Projects ---> https://movie-app-mertkaratass.vercel.app/
 
-- ![Animation2](https://github.com/MertKaratass/movie-app/assets/140601271/e80b88a6-5402-46ae-a44d-5503aae6188b)
+- ![Animation33331](https://github.com/MertKaratass/movie-app/assets/140601271/2d48b7e5-37a5-4b0c-bfbe-8019006a71de)
+
 
