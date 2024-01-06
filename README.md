@@ -20,4 +20,4 @@
   
 - Projects ---> https://movie-app-mertkaratass.vercel.app/
 
-- ![Uploading Animation333.gif…]()
+- ![Uploading Animation2.gif…]()
