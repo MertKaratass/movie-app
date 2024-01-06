@@ -1,4 +1,4 @@
-## Projects ---> https://movie-app-mertkaratass.vercel.app/
+
 
 ##Proje Hakkında
 - Movie App, film severler için tasarlanmış kapsamlı bir web uygulamasıdır. Bu platform, kullanıcıların çeşitli filmler hakkında bilgi edinmelerini, incelemelerini okumalarını ve kendi yorumlarını paylaşmalarını sağlar. Kullanıcılar, geniş bir film veritabanında arama yapabilir, en popüler ve en yeni filmleri keşfedebilir ve kişisel izleme listeleri oluşturabilirler.
@@ -13,3 +13,10 @@
 - Firebase: Veritabanı ve/veya kimlik doğrulama.
 - Tailwind CSS: Stil ve tasarım.
 - React Router: Sayfa yönlendirme ve navigasyon.
+
+  ## Contact
+- Yazar: [Mert KARATAŞ]
+- LinkedIn: [https://www.linkedin.com/in/mert-karatass/]
+- E-posta: [karatasmert255@gmail.com]
+  
+- Projects ---> https://movie-app-mertkaratass.vercel.app/
